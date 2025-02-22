@@ -61,7 +61,7 @@ Example : <br>
 
 <br><br>
 
-### Addition rule for non mutual exclusive events
+### Addition rule for non mutually exclusive events
 
 For two non mutual exclusive events X and Y, probability of obtaining X or Y is <br>
 
