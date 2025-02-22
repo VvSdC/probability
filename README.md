@@ -61,6 +61,20 @@ Example : <br>
 
 <br><br>
 
+### Addition rule for non mutual exclusive events
+
+For two non mutual exclusive events X and Y, probability of obtaining X or Y is <br>
+
+![image](https://github.com/user-attachments/assets/292d2fe5-03df-479c-b0c7-e5503b23b209)
+
+<br>
+
+Example : <br>
+
+![image](https://github.com/user-attachments/assets/bb23c566-9162-4086-925b-16e41f0a348f)
+
+<br><br>
+
 ---
 
 # Multiplication rule
