@@ -44,10 +44,20 @@ Example for mutually exlusive events:
 
 ![image](https://github.com/user-attachments/assets/ee168296-9e95-414f-a736-bf736ecbd85e)
 
+<br><br>
+
+### Addition rule for mutually exclusive events
+
+For two mutual exlsuive events X and Y, the Probability of obtaining X or Y is 
 <br>
 
-### Addition rule for mutually exclsuive events
+![image](https://github.com/user-attachments/assets/d11a3374-d786-40a4-8234-ac6b58a9b1b5)
 
+<br>
+
+Example : <br>
+
+![image](https://github.com/user-attachments/assets/3e22f88f-b662-4a1c-bb9d-ab57dc1b6716)
 
 <br><br>
 
