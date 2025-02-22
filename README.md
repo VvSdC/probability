@@ -31,7 +31,7 @@ Example :
 It differs for mutually exlusive and non mutually exlusive events.
 - [Mutual exclusive events](#mutual-exclusive-events)
 - [Addition rule for mutually exclusive events](#addition-rule-for-mutually-exclusive-events)
-- [Addition rules for non mutually exclusive events](#addition-rule-for-non-mutually-exlusive-events)
+- [Addition rules for non mutually exclusive events](#addition-rule-for-non-mutually-exclusive-events)
 
 ### Mutual exclusive events
 Two events are mutually exclusive if they cannot occur at the same time.<br>
