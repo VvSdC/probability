@@ -79,6 +79,37 @@ Example : <br>
 
 # Multiplication rule
 
+- [Independent events](#independent-events)
+- [Dependent events](#dependent-events)
+
+
+### Independent events
+
+Two events are independent if they donot effect each other. <br>
+If X and Y are independent events, then probability of occuring of X and then Y is <br>
+
+![image](https://github.com/user-attachments/assets/d9336cc0-49a0-4e21-afd3-2d49e51a32e0)
+
+Example of multiplication property for independent events : <br>
+
+![image](https://github.com/user-attachments/assets/b93dc888-323e-4a0e-b2b7-8197708361b9)
+
+
+### Dependent events
+
+Two events are dependent if they effect each other. <br>
+If X and Y are dependent events, then probability of occcuring of X first and then Y is <br>
+
+![image](https://github.com/user-attachments/assets/01555076-5623-40ab-9727-61509d778005)
+
+<br> Example of multiplication property for dependent events : <br>
+
+![image](https://github.com/user-attachments/assets/c0f3aa82-f402-4c42-9e5a-ff4df5de8301)
+
+<br>
+Pr(Queen/King) => Probability of Queen provided the condition of King is satisfied.
+
+
 <br><br>
 
 ---
