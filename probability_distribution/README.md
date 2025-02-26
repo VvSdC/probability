@@ -1,0 +1,17 @@
+# Table of contents
+- [Probability Distribution Function](#probability-distribution-function)
+- [Probability Mass Function](#probability-mass-function)
+- [Cumulative Distribution Function](#cumulative-distribution-function)
+- [Types of Probability Distribution](#types-of-probabiility-distibution-function)
+  - [Bernoulli distribution](#bernoulli-distribution)
+  - [Binomial distribution](#binomial-distribution)
+  - [Poisson distribution](#poisson-distribution)
+  - [Normal Gaussian Distribution](#normal-gaussian-distribution)
+  - [Standard Normal Distribution](#standard-normal-distribution)
+  - [Uniform distribution](#uniform-distribution)
+  - [Log Normal distribution](#log-normal-distribution)
+  - [Power Law distribution](#power-law-distribution)
+  - [Pareto distribution](#pareto-distribution)
+  - [Central Limit Theorem](#central-limit-theorem)
+  - [Estimates](#estimates)
+  
