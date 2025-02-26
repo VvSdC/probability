@@ -59,6 +59,11 @@ It is used for continuous random variables. <br>
 
 <br>
 
-**So, we can define probability density as graident descent of cumulative density function.**
+**So, we can define probability density as graident descent of cumulative density function.**<br>
 
+Characteristics of Probability Density Function : 
+- It is always non-negative
+- The total area under the Probability density function curve is equal to 1. <br>
+  ![image](https://github.com/user-attachments/assets/d16eccf7-949c-4ef9-99a1-9d267629db0a)
+  
 <br>
