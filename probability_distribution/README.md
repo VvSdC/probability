@@ -35,7 +35,7 @@ Probability distribution function describes how the probabilities are distribute
 <br>
 
 ---
-#Probability Mass Function
+# Probability Mass Function
 
 It is used for discrete random variable. <br>
 
@@ -43,11 +43,22 @@ Example : Rolling a fair dice => Pr(1) = Pr(2) = Pr(3) = Pr(4) = Pr(5) = Pr(6) =
 
 ![image](https://github.com/user-attachments/assets/b9854185-75ae-4f80-9322-1c2b4ca3fb1c)
 
-<br>
-
-
-<br>
+<br><br>
 ---
 # Probability Density Function 
 
-It is used for continuous random variables.
+It is used for continuous random variables. <br>
+
+![image](https://github.com/user-attachments/assets/1a80dc36-b303-4495-a973-c1d74026b4ff)
+
+<br>
+
+**Probability density is the slope of cumulative probability curve**. So, if the slope of cumulative probability curve is more, the value of probability density will be more as well. <br>
+
+![image](https://github.com/user-attachments/assets/5d5c6a22-e02c-414a-8323-75cd53941292)
+
+<br>
+
+**So, we can define probability density as graident descent of cumulative density function.**
+
+<br>
